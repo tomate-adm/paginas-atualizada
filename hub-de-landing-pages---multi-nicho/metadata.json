@@ -1,0 +1,7 @@
+{
+  "name": "Hub de Landing Pages - Multi-Nicho",
+  "description": "Uma galeria profissional de landing pages categorizadas por nichos: Saúde, Negócios, Alimentação e mais. Inclui 20 modelos exclusivos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
